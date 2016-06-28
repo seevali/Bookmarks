@@ -5,6 +5,7 @@ Consolidated list of Azure related resources from across the internet
 ## Architectural Guidance
 * [Cloud Design Patterns: Prescriptive Architecture Guidance for Cloud Applications](https://msdn.microsoft.com/library/dn568099.aspx) - via the Patterns and Practices team
 * [Architecture Blueprints](https://msdn.microsoft.com/dn630664) - 2D & 3D diagrams for common architectural scenarios
+* [Infographics](https://azure.microsoft.com/en-us/documentation/infographics/) - technical infographics
 
 ## Billing
 * [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/) - web based costing tool
