@@ -1,6 +1,6 @@
 # Resources
 
-Consolidated list of Azure related resources from across the internet
+Consolidated list of Azure related resources from across the internet. To stay current with recent updates and upcoming changes, also check the [Watchlist](.\Watchlist.md)
 
 ## Architectural Guidance
 * [Cloud Design Patterns: Prescriptive Architecture Guidance for Cloud Applications](https://msdn.microsoft.com/library/dn568099.aspx) - via the Patterns and Practices team
