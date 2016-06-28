@@ -22,4 +22,9 @@ Consolidated list of Azure related resources from across the internet
 * [Azure CLI GitHub](https://github.com/Azure/azure-xplat-cli)
 * [Azure PowerShell GitHub](https://github.com/Azure/azure-powershell)
 
+## Migration
+* [Virtual Machine Readiness Assessment](https://azure.microsoft.com/en-us/downloads/vm-readiness-assessment/)
+* [Virtual Machine Optimization Assessment](https://azure.microsoft.com/en-us/downloads/vm-optimization-assessment/)
+* [Azure App Service Migration Assistant](https://www.movemetothecloud.net/)
+
 ## SDKs
