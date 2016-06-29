@@ -12,6 +12,7 @@ Resources worth to follow to stay current with the Azure platform
 * [Cloud Design Patterns: Prescriptive Architecture Guidance for Cloud Applications](https://msdn.microsoft.com/library/dn568099.aspx) - via the Patterns and Practices team
 * [Architecture Blueprints](https://msdn.microsoft.com/dn630664) - 2D & 3D diagrams for common architectural scenarios
 * [Infographics](https://azure.microsoft.com/en-us/documentation/infographics/) - technical infographics
+* [Azure Guidance](https://azure.microsoft.com/en-us/documentation/articles/guidance/) - Guidance that shows best practices for building cloud solutions on Azure
 
 ## Billing
 * [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/) - web based costing tool
