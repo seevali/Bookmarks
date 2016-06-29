@@ -1,6 +1,12 @@
 # Resources
 
-Consolidated list of Azure related resources from across the internet. To stay current with recent updates and upcoming changes, also check the [Watchlist](./Watchlist.md)
+Consolidated list of Azure related resources from across the internet. 
+
+## Newsfeeds, Updates, Roadmap
+Resources worth to follow to stay current with the Azure platform
+* [Azure Updates](https://azure.microsoft.com/en-us/updates/) - One place. All updates. Official Microsoft list of all Azure updates
+* [Cloud Platform roadmap](https://www.microsoft.com/en-us/server-cloud/roadmap/) - Provides a snapshot of what Microsoft is working on in the Cloud Platform business
+* [Azure weekly](http://azureweekly.info/) - Azure Weekly is a summary of the week's top news in the Microsoft Azure ecosystem, as well as interesting historic content that's well worth reading.
 
 ## Architectural Guidance
 * [Cloud Design Patterns: Prescriptive Architecture Guidance for Cloud Applications](https://msdn.microsoft.com/library/dn568099.aspx) - via the Patterns and Practices team
