@@ -43,7 +43,15 @@ Resources worth to follow to stay current with the Azure platform
 
 ## Security
 
-## SDKs
+## Coding
+* [.NET Dev Center](https://azure.microsoft.com/en-us/develop/net/)
+* [Node.js Dev Center](https://azure.microsoft.com/en-us/develop/nodejs/)
+* [Java Dev Center](https://azure.microsoft.com/en-us/develop/java/)
+* [iOS Dev Center](https://azure.microsoft.com/en-us/develop/mobile/ios/)
+* [PHP Dev Center](https://azure.microsoft.com/en-us/develop/php/)
+* [Python Dev Center](https://azure.microsoft.com/en-us/develop/python/)
+* [Ruby Dev Center](https://azure.microsoft.com/en-us/develop/ruby/)
+* [Script Center](https://azure.microsoft.com/en-us/documentation/scripts/) - Pre-made PowerShell and CLI scripts for common tasks
 
 ## Books
 * [Free eBooks from Microsoft Press](https://mva.microsoft.com/ebooks) 
