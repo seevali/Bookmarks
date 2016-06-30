@@ -64,3 +64,6 @@ Resources worth to follow to stay current with the Azure platform
 * [Tuesdays with Corey](https://channel9.msdn.com/Shows/Tuesdays-With-Corey) - Weekly Channel9 show on recent updates to Azure
 * [Azure Friday](https://channel9.msdn.com/Shows/Azure-Friday) - Weekly interviews with the actual engineers who build Microsoft Azure
 * [Cloud Cover](https://channel9.msdn.com/Shows/Cloud+Cover) - Regular series with interviews from across Microsoft's cloud technologies
+
+****
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
