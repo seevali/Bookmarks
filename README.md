@@ -8,6 +8,8 @@ Resources worth to follow to stay current with the Azure platform
 * [Azure Blog](https://azure.microsoft.com/en-us/blog/) - Regularly updated official blog with [RSS](https://azure.microsoft.com/en-us/blog/feed/) feed
 * [Cloud Platform Roadmap](https://www.microsoft.com/en-us/server-cloud/roadmap/) - Provides a snapshot of what Microsoft is working on in the Cloud Platform business
 * [Azure Weekly](http://azureweekly.info/) - Azure Weekly is a summary of the week's top news in the Microsoft Azure ecosystem, as well as interesting historic content that's well worth reading.
+* [Microsoft Azure Newsletter](https://azure.microsoft.com/en-us/community/newsletter/subscribe/) - Subscribe to the Microsoft Azure Newsletter
+* [Preview features](https://azure.microsoft.com/en-us/services/preview/) - Preview features for evaluation purposes
 
 ## Architectural Guidance
 * [Cloud Design Patterns: Prescriptive Architecture Guidance for Cloud Applications](https://msdn.microsoft.com/library/dn568099.aspx) - via the Patterns and Practices team
@@ -24,6 +26,7 @@ Resources worth to follow to stay current with the Azure platform
 * [Microsoft Azure, Cloud and Enterprise Symbol / Icon Set](https://www.microsoft.com/en-us/download/details.aspx?id=41937) - Stencil and PNG images for generating architectural diagrams in Visio and PowerPoint.
 * [Storage Explorer](http://storageexplorer.com/) - Cross platform storage tool
 * [Azure Media Services Explorer](https://github.com/Azure/Azure-Media-Services-Explorer) - Desktop tool for interacting with AMS
+* [Azure Speed Test](http://azurespeedtest.azurewebsites.net/) - Measuring  latency from your web browser to the Blob Storage Service in each of the Azure Data Centers
 
 ## Command Line
 * [How to install and configure Azure PowerShell](https://azure.microsoft.com/en-us/documentation/articles/powershell-install-configure/)
@@ -64,6 +67,7 @@ Resources worth to follow to stay current with the Azure platform
 * [Tuesdays with Corey](https://channel9.msdn.com/Shows/Tuesdays-With-Corey) - Weekly Channel9 show on recent updates to Azure
 * [Azure Friday](https://channel9.msdn.com/Shows/Azure-Friday) - Weekly interviews with the actual engineers who build Microsoft Azure
 * [Cloud Cover](https://channel9.msdn.com/Shows/Cloud+Cover) - Regular series with interviews from across Microsoft's cloud technologies
+* [Azure YouTube Channel](https://www.youtube.com/user/windowsazure) - Microsoft Azure's home on YouTube, providing latest products & solutions news, demos, and in-depth technical insights as well as training videos for Microsoft Azure. 
 
 ****
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
