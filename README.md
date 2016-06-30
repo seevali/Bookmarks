@@ -14,6 +14,7 @@ Resources worth to follow to stay current with the Azure platform
 * [Architecture Blueprints](https://msdn.microsoft.com/dn630664) - 2D & 3D diagrams for common architectural scenarios
 * [Infographics](https://azure.microsoft.com/en-us/documentation/infographics/) - technical infographics
 * [Azure Guidance](https://azure.microsoft.com/en-us/documentation/articles/guidance/) - Guidance that shows best practices for building cloud solutions on Azure
+* [Microsoft Association of Practicing Architects (MAPA)](https://www.the-mapa.com/) - Global community of IT Architects with free benefits and resources
 
 ## Billing
 * [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/) - web based costing tool
