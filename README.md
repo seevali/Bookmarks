@@ -26,6 +26,7 @@ Resources worth to follow to stay current with the Azure platform
 * [Microsoft Azure, Cloud and Enterprise Symbol / Icon Set](https://www.microsoft.com/en-us/download/details.aspx?id=41937) - Stencil and PNG images for generating architectural diagrams in Visio and PowerPoint.
 * [Storage Explorer](http://storageexplorer.com/) - Cross platform storage tool
 * [Azure Media Services Explorer](https://github.com/Azure/Azure-Media-Services-Explorer) - Desktop tool for interacting with AMS
+* [Azure Speed](http://www.azurespeed.com/) -  Test network latencies and speed to Azure data centers from different countries
 * [Azure Speed Test](http://azurespeedtest.azurewebsites.net/) - Measuring  latency from your web browser to the Blob Storage Service in each of the Azure Data Centers
 
 ## Command Line
