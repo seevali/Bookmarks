@@ -28,6 +28,7 @@ Resources worth to follow to stay current with the Azure platform
 * [Azure Media Services Explorer](https://github.com/Azure/Azure-Media-Services-Explorer) - Desktop tool for interacting with AMS
 * [Azure Speed](http://www.azurespeed.com/) -  Test network latencies and speed to Azure data centers from different countries
 * [Azure Speed Test](http://azurespeedtest.azurewebsites.net/) - Measuring  latency from your web browser to the Blob Storage Service in each of the Azure Data Centers
+* [The Azure Periodic Table](http://www.concurrency.com/landing/azure-periodic-table#periodic-table) - Explore the power and possibilites of Azure in a scientific way
 
 ## Command Line
 * [How to install and configure Azure PowerShell](https://azure.microsoft.com/en-us/documentation/articles/powershell-install-configure/)
@@ -61,7 +62,7 @@ Resources worth to follow to stay current with the Azure platform
 * [Script Center](https://azure.microsoft.com/en-us/documentation/scripts/) - Pre-made PowerShell and CLI scripts for common tasks
 
 ## Books
-* [Free eBooks from Microsoft Press](https://mva.microsoft.com/ebooks) 
+* [Free eBooks from Microsoft Press](https://mva.microsoft.com/ebooks) - Filter for "Microsoft Azure"
 
 ## Videos
 * [Microsoft Virtual Academy](https://mva.microsoft.com/training-topics/cloud-app-development#!jobf=Developer&lang=1033) - Free training on a variety of MSFT cloud technologies
