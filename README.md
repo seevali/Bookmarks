@@ -22,6 +22,7 @@ Resources worth to follow to stay current with the Azure platform
 ## Billing
 * [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/) - web based costing tool
 * [Azure Billing REST API Reference](https://msdn.microsoft.com/library/azure/1ea5b323-54bb-423d-916f-190de96c6a3c)
+* [Azure Usage and Billing Insights Portal](https://github.com/Microsoft/AzureUsageAndBillingPortal) - Open Source project to retrieve usage details of all Azure services in specific Azure subscriptions. Includes PowerBI dashboard
 
 ## Tools
 * [Microsoft Azure, Cloud and Enterprise Symbol / Icon Set](https://www.microsoft.com/en-us/download/details.aspx?id=41937) - Stencil and PNG images for generating architectural diagrams in Visio and PowerPoint.
