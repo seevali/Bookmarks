@@ -51,6 +51,7 @@ Resources worth to follow to stay current with the Azure platform
 * [Azure Resource Manager Tools for VSCode](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools) - Visual Studio Code extension for working with templates
 * [Resource Manager Schemas](https://github.com/Azure/azure-resource-manager-schemas) - Schemas used by Azure Resource Manager
 * [Deep Dive into Azure Resource Manager Scenarios and Patterns](https://mva.microsoft.com/en-us/training-courses/deep-dive-into-azure-resource-manager-scenarios-and-patterns-13793?l=i1m06ZJYB_7001937557) - MVA on-demand course. Get an overview of how Azure services were managed before ARM, take a comprehensive look at what ARM is, see key targeted scenarios for using ARM, and learn about techniques for using ARM effectively.
+* [Azure Resource Manager template functions](https://azure.microsoft.com/en-us/documentation/articles/resource-group-template-functions/) - describes all of the functions you can use in an ARM template
 
 ## Security
 
