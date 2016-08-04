@@ -19,6 +19,7 @@ Resources worth to follow to stay current with the Azure platform
 * [Azure Reference Architectures](https://azure.microsoft.com/en-us/documentation/articles/guidance-architecture/) - Reference architectures arranged by scenario
 * [Microsoft Association of Practicing Architects (MAPA)](https://www.the-mapa.com/) - Global community of IT Architects with free benefits and resources
 * [Architecting Microsoft Azure Solutions](https://www.edx.org/course/architecting-microsoft-azure-solutions-microsoft-dev205bx-0) - Learn Microsoft Azure solution design from architects at Microsoft. edX-Course
+* [Recommended naming conventions for Azure Resources](https://azure.microsoft.com/en-us/documentation/articles/guidance-naming-conventions/) - Guidance on naming resources from the PnP team
 
 ## Billing
 * [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/) - web based costing tool
