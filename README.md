@@ -33,6 +33,8 @@ Resources worth to follow to stay current with the Azure platform
 * [Azure Speed](http://www.azurespeed.com/) -  Test network latencies and speed to Azure data centers from different countries
 * [Azure Speed Test](http://azurespeedtest.azurewebsites.net/) - Measuring  latency from your web browser to the Blob Storage Service in each of the Azure Data Centers
 * [The Azure Periodic Table](http://www.concurrency.com/landing/azure-periodic-table#periodic-table) - Explore the power and possibilites of Azure in a scientific way
+* [ASM to ARM Migration](https://azure.microsoft.com/en-us/blog/iaas-migration-classic-resource-manager/) - Platform supported migration of IaaS resources from Classic to Resource Manager
+* [ASM to ARM Migration](https://github.com/Azure/classic-iaas-resourcemanager-migration/tree/master/migaz) - Classic IaaS to Azure Resource Manager IaaS migration using MigAz
 
 ## Command Line
 * [How to install and configure Azure PowerShell](https://azure.microsoft.com/en-us/documentation/articles/powershell-install-configure/)
