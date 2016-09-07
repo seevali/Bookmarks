@@ -10,6 +10,7 @@ Resources worth to follow to stay current with the Azure platform
 * [Azure Weekly](http://azureweekly.info/) - Azure Weekly is a summary of the week's top news in the Microsoft Azure ecosystem, as well as interesting historic content that's well worth reading.
 * [Microsoft Azure Newsletter](https://azure.microsoft.com/en-us/community/newsletter/subscribe/) - Subscribe to the Microsoft Azure Newsletter
 * [Preview features](https://azure.microsoft.com/en-us/services/preview/) - Preview features for evaluation purposes
+* [Azure Info Hub](https://azureinfohub.azurewebsites.net/) - Another great compilation of resources around Azure
 
 ## Architectural Guidance
 * [Cloud Design Patterns: Prescriptive Architecture Guidance for Cloud Applications](https://msdn.microsoft.com/library/dn568099.aspx) - via the Patterns and Practices team
