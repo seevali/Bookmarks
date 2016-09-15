@@ -11,6 +11,7 @@ Resources worth to follow to stay current with the Azure platform
 * [Microsoft Azure Newsletter](https://azure.microsoft.com/en-us/community/newsletter/subscribe/) - Subscribe to the Microsoft Azure Newsletter
 * [Preview features](https://azure.microsoft.com/en-us/services/preview/) - Preview features for evaluation purposes
 * [Azure Info Hub](https://azureinfohub.azurewebsites.net/) - Another great compilation of resources around Azure
+* [aka.ms Azure Shortcuts](aka.ms/Azure/Shortcuts) - Compilation of aka.ms shorts pointing to Azure resources
 
 ## Architectural Guidance
 * [Cloud Design Patterns: Prescriptive Architecture Guidance for Cloud Applications](https://msdn.microsoft.com/library/dn568099.aspx) - via the Patterns and Practices team
