@@ -59,8 +59,10 @@ Resources worth to follow to stay current with the Azure platform
 * [Azure Resource Manager template functions](https://azure.microsoft.com/en-us/documentation/articles/resource-group-template-functions/) - describes all of the functions you can use in an ARM template
 
 ## Partners
-* [Partner Center Samples](https://github.com/PartnerCenterSamples) - Code samples and walkthrough of working with the CSP SDK 
+* [Partner Center Samples](https://github.com/PartnerCenterSamples) - Code samples and walkthrough of working with the CSP SDK
+
 ## Security
+* [Azure TrustCenter](https://azure.microsoft.com/en-us/support/trust-center/) - Starting point for all questions on Security, Privacy, Transparency and Compliance
 
 ## Coding
 * [.NET Dev Center](https://azure.microsoft.com/en-us/develop/net/)
@@ -82,6 +84,9 @@ Resources worth to follow to stay current with the Azure platform
 * [Azure Friday](https://channel9.msdn.com/Shows/Azure-Friday) - Weekly interviews with the actual engineers who build Microsoft Azure
 * [Cloud Cover](https://channel9.msdn.com/Shows/Cloud+Cover) - Regular series with interviews from across Microsoft's cloud technologies
 * [Azure YouTube Channel](https://www.youtube.com/user/windowsazure) - Microsoft Azure's home on YouTube, providing latest products & solutions news, demos, and in-depth technical insights as well as training videos for Microsoft Azure. 
+
+## Blogs
+* [Azure Field Notes Blog](http://www.azurefieldnotes.com/) -  Blog sharing our knowledge of Azure, Azure Stack and cloud
 
 ****
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
