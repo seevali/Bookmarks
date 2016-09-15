@@ -37,6 +37,7 @@ Resources worth to follow to stay current with the Azure platform
 * [The Azure Periodic Table](http://www.concurrency.com/landing/azure-periodic-table#periodic-table) - Explore the power and possibilites of Azure in a scientific way
 * [ASM to ARM Migration](https://azure.microsoft.com/en-us/blog/iaas-migration-classic-resource-manager/) - Platform supported migration of IaaS resources from Classic to Resource Manager
 * [ASM to ARM Migration](https://github.com/Azure/classic-iaas-resourcemanager-migration/tree/master/migaz) - Classic IaaS to Azure Resource Manager IaaS migration using MigAz
+* [azure-oss-portal](https://github.com/Azure/azure-oss-portal) - Open source web application for managing and governing a company's GitHub activities. Used internally at MSFT.
 
 ## Command Line
 * [How to install and configure Azure PowerShell](https://azure.microsoft.com/en-us/documentation/articles/powershell-install-configure/)
