@@ -37,7 +37,7 @@ Resources worth to follow to stay current with the Azure platform
 * [The Azure Periodic Table](http://www.concurrency.com/landing/azure-periodic-table#periodic-table) - Explore the power and possibilites of Azure in a scientific way
 * [ASM to ARM Migration](https://azure.microsoft.com/en-us/blog/iaas-migration-classic-resource-manager/) - Platform supported migration of IaaS resources from Classic to Resource Manager
 * [ASM to ARM Migration](https://github.com/Azure/classic-iaas-resourcemanager-migration/tree/master/migaz) - Classic IaaS to Azure Resource Manager IaaS migration using MigAz
-* [azure-oss-portal](https://github.com/Azure/azure-oss-portal) - Open source web application for managing and governing a company's GitHub activities. Used internally at MSFT.
+* [Azure's OSS Portal](https://github.com/Azure/azure-oss-portal) - Open source web application for managing and governing a company's GitHub activities. Used internally at MSFT.
 
 ## Command Line
 * [How to install and configure Azure PowerShell](https://azure.microsoft.com/en-us/documentation/articles/powershell-install-configure/)
@@ -87,7 +87,8 @@ Resources worth to follow to stay current with the Azure platform
 * [Azure YouTube Channel](https://www.youtube.com/user/windowsazure) - Microsoft Azure's home on YouTube, providing latest products & solutions news, demos, and in-depth technical insights as well as training videos for Microsoft Azure. 
 
 ## Blogs
-* [Azure Field Notes Blog](http://www.azurefieldnotes.com/) -  Blog sharing our knowledge of Azure, Azure Stack and cloud
+* [Azure Field Notes Blog](http://www.azurefieldnotes.com/) - Blog sharing our knowledge of Azure, Azure Stack and cloud
+* [Build Azure](https://buildazure.com/) - Showcase of unique and aggregated content that focuses on EVERYTHING Microsoft Azure; 
 
 ****
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
