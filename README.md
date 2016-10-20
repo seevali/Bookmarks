@@ -66,6 +66,7 @@ Resources worth to follow to stay current with the Azure platform
 
 ## Security
 * [Azure TrustCenter](https://azure.microsoft.com/en-us/support/trust-center/) - Starting point for all questions on Security, Privacy, Transparency and Compliance
+* [Azure Datacenter Locations](http://azuredatacentermap.azurewebsites.net/) - Where is my customer data? 
 
 ## Coding
 * [.NET Dev Center](https://azure.microsoft.com/en-us/develop/net/)
