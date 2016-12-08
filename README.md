@@ -93,5 +93,5 @@ Resources worth to follow to stay current with the Azure platform
 * [Azure Field Notes Blog](http://www.azurefieldnotes.com/) - Blog sharing our knowledge of Azure, Azure Stack and cloud
 * [Build Azure](https://buildazure.com/) - Showcase of unique and aggregated content that focuses on EVERYTHING Microsoft Azure; 
 
-****
+## Code of Conduct
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
